@@ -83,3 +83,4 @@ shout Pico
 ```bash
 rrrocknrn0113r
 ```
+flag: picoCTF{rrrocknrn0113r} 
