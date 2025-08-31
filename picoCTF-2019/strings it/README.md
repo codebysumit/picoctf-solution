@@ -83,5 +83,4 @@ Mf9MFZCIv8gY7faUsaeAx8oEI8pvFLAGYZSFekIv
 0KLthcTFnFPvAM2UW7Ok3nnQRettkQpQ1nRh9t
 ```
 flag is : `picoCTF{5tRIng5_1T_7f766a23}`
----
 
