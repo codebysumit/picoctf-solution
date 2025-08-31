@@ -1,3 +1,5 @@
+# [strings it](https://play.picoctf.org/practice/challenge/37)
+
 ### Using strings extracts readable ASCII text from a binary or file
 
 ```bash
